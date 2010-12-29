@@ -1,0 +1,24 @@
+Elise OS v0.11
+
+Site: https://github.com/loicguillois/Elise-OS
+
+Author: Loïc Guillois
+
+Introduction
+============
+
+This operating system is an experimental project. It works with i386 processors and run in real mode with a minimalistic shell.
+
+
+Building, installing
+====================
+
+See the INSTALL file (coming soon)
+
+
+Plans for the future
+====================
+
+- FAT16 file system
+- scrolling
+- more commands
